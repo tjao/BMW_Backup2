@@ -1,0 +1,3 @@
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\Debug\BMW_GUI.csprojResolveAssemblyReference.cache
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\Debug\BMW_GUI.Properties.Resources.resources
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\Debug\BMW_GUI.csproj.GenerateResource.Cache

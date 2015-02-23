@@ -1,0 +1,26 @@
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\build\Debug\DotNetEmotivSDK-vs2010.dll.config
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\build\Debug\DotNetEmotivSDK-vs2010.dll
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\build\Debug\DotNetEmotivSDK-vs2010.pdb
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.dll
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\build\Debug\DotNetEmotivSDK-vs2010.dll.config
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\build\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\build\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.csprojResolveAssemblyReference.cache
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\build\Debug\DotNetEmotivSDK-vs2010.dll.config
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\build\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\build\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\build\Debug\DotNetEmotivSDK-vs2010.dll.config
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\build\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\build\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\build\Debug\DotNetEmotivSDK-vs2010.dll.config
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\build\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\build\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK-vs2010.pdb

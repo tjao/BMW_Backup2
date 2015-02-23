@@ -1,0 +1,9 @@
+C:\Users\Billy Chen\Dropbox\Study\ECE\Spring2015\ECE416\SDP15\ClosedEyeTrigger\ClosedEyeTrigger\bin\Debug\ClosedEyeTrigger.exe.config
+C:\Users\Billy Chen\Dropbox\Study\ECE\Spring2015\ECE416\SDP15\ClosedEyeTrigger\ClosedEyeTrigger\bin\Debug\ClosedEyeTrigger.exe
+C:\Users\Billy Chen\Dropbox\Study\ECE\Spring2015\ECE416\SDP15\ClosedEyeTrigger\ClosedEyeTrigger\bin\Debug\ClosedEyeTrigger.pdb
+C:\Users\Billy Chen\Dropbox\Study\ECE\Spring2015\ECE416\SDP15\ClosedEyeTrigger\ClosedEyeTrigger\obj\Debug\ClosedEyeTrigger.csprojResolveAssemblyReference.cache
+C:\Users\Billy Chen\Dropbox\Study\ECE\Spring2015\ECE416\SDP15\ClosedEyeTrigger\ClosedEyeTrigger\obj\Debug\ClosedEyeTrigger.exe
+C:\Users\Billy Chen\Dropbox\Study\ECE\Spring2015\ECE416\SDP15\ClosedEyeTrigger\ClosedEyeTrigger\obj\Debug\ClosedEyeTrigger.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\ClosedEyeTrigger\ClosedEyeTrigger\bin\Debug\ClosedEyeTrigger.exe.config
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\ClosedEyeTrigger\ClosedEyeTrigger\obj\Debug\ClosedEyeTrigger.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\ClosedEyeTrigger\ClosedEyeTrigger\obj\Debug\ClosedEyeTrigger.pdb

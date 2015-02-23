@@ -1,0 +1,54 @@
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\bin\x86\Debug\BMW_GUI.exe.config
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\bin\x86\Debug\BMW_GUI.exe
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\bin\x86\Debug\BMW_GUI.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\bin\x86\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\bin\x86\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.csprojResolveAssemblyReference.cache
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.Properties.Resources.resources
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.csproj.GenerateResource.Cache
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.exe
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.ControlForm.resources
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.MainForm.resources
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.TrainingForm.resources
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\bin\x86\Debug\Database.exe
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\bin\x86\Debug\SQLite.NET.dll
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\BMW_GUI\bin\x86\Debug\Database.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\bin\x86\Debug\BMW_GUI.exe.config
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\bin\x86\Debug\BMW_GUI.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\bin\x86\Debug\BMW_GUI.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\bin\x86\Debug\Database.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\bin\x86\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\bin\x86\Debug\SQLite.NET.dll
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\bin\x86\Debug\Database.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\bin\x86\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.csprojResolveAssemblyReference.cache
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.ControlForm.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.MainForm.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.Properties.Resources.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.SSVEP_Form.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.TrainingForm.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.csproj.GenerateResource.Cache
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\BMW_GUI\obj\x86\Debug\BMW_GUI.SensorContactForm.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\BMW_GUI.exe.config
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\BMW_GUI.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\BMW_GUI.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\Database.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\DotNetEmotivSDK-vs2010.dll
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\SQLite.NET.dll
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\Database.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\DotNetEmotivSDK-vs2010.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.MainForm.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.Properties.Resources.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.SensorContactForm.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.SSVEP_Form.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.TrainingForm.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.csproj.GenerateResource.Cache
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.csprojResolveAssemblyReference.cache
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\obj\x86\Debug\BMW_GUI.ControlForm.resources
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\ClosedEyeTrigger.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\BMW_GUI\bin\x86\Debug\ClosedEyeTrigger.pdb

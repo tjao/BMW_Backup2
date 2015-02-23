@@ -1,0 +1,18 @@
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\build\Debug\DotNetEmotivSDKTest_vs2010.exe.config
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\build\Debug\DotNetEmotivSDKTest_vs2010.exe
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\build\Debug\DotNetEmotivSDKTest_vs2010.pdb
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest-vs2010.csprojResolveAssemblyReference.cache
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest_vs2010.exe
+C:\Users\tiffany\energylab.hpa.edu\public\brain\Emotiv Research Edition SDK v2.0.0.20\doc\examples_DotNet\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest_vs2010.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\build\Debug\DotNetEmotivSDKTest_vs2010.exe.config
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\build\Debug\DotNetEmotivSDKTest_vs2010.exe
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\build\Debug\DotNetEmotivSDKTest_vs2010.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest-vs2010.csprojResolveAssemblyReference.cache
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest_vs2010.exe
+D:\tiffany\Documents\Visual Studio 2012\Projects\ResearchEdit_Backup\examples_DotNet\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest_vs2010.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\build\Debug\DotNetEmotivSDKTest_vs2010.exe.config
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\build\Debug\DotNetEmotivSDKTest_vs2010.exe
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\build\Debug\DotNetEmotivSDKTest_vs2010.pdb
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest-vs2010.csprojResolveAssemblyReference.cache
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest_vs2010.exe
+D:\tiffany\Documents\Visual Studio 2012\Projects\BMW_data_GUI\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest_vs2010.pdb

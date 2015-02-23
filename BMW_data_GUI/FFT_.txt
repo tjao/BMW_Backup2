@@ -1,0 +1,41 @@
+ /*
+                    List<double> range = O1List.GetRange(0, sampleSize);
+                    double[] FFT_data = new double[sampleSize];
+                    FFT_data = range.ToArray();
+                    
+                    
+                    ft.RealFFT(FFT_data, true);
+
+                    //Compute MaxFreq
+                    for (int i = 0; i < FFT_data.Length; i += 2)
+                    {
+                        if (i > 6 && ((Math.Pow(FFT_data[i], 2)) + Math.Pow(FFT_data[i + 1], 2) > maxMag))
+                        {
+                            maxMag = Math.Pow(FFT_data[i], 2) + Math.Pow(FFT_data[i + 1], 2);
+                            maxFreq = (i * 128 / FFT_data.Length) / 2;
+                        }
+                    
+                    }
+
+                    //Compute Alpha
+                    for (int j = 8*2; j <= 12*2; j += 2)
+                    {
+                        
+                            alphaPower += Math.Pow(FFT_data[j], 2) + Math.Pow(FFT_data[j + 1], 2);
+                            
+                     }
+
+                     //Compute Beta
+                    for (int k = 13*2; k <=30*2; k += 2)
+                    {
+                       
+                            betaPower += Math.Pow(FFT_data[k], 2) + Math.Pow(FFT_data[k + 1], 2);
+                            
+                        
+
+                    }
+           
+       
+                    alphaPower = Math.Sqrt(alphaPower);
+                    betaPower = Math.Sqrt(betaPower);
+                     * */

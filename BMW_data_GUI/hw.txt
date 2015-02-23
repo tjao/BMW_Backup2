@@ -1,0 +1,2 @@
+data to database
+-record differemt session of data (need to discard buffer)

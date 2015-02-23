@@ -1,0 +1,9 @@
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\build\Debug\DotNetEmotivSDKTest.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\build\Debug\DotNetEmotivSDKTest.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI - backup_0128015\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\build\Debug\DotNetEmotivSDKTest.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\build\Debug\DotNetEmotivSDKTest.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest.exe
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest.pdb
+D:\tiffany\Documents\GitHub\SDP15\BMW_data_GUI\DotNetEmotivSDKTest\obj\x86\Debug\DotNetEmotivSDKTest.csprojResolveAssemblyReference.cache
